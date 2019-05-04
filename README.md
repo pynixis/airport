@@ -1,5 +1,5 @@
 |Code|Name|cityCode|cityName|countryName|countryCode|
-|------|----------------------------------|------------|-----------------|---------------------------|----|
+|------|------|------|------|------|------|
 |ANW|Ainsworth Minicipal Arpt|ANW|Ainsworth|UNITED STATES|US|
 |ANU|V C Bird Intl Arpt|ANU|Antigua|ANTIGUA AND BARBUDA|AG
 |ANR|Antwerp Brussels North|ANR|Antwerp|BELGIUM|BE|
